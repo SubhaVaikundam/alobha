@@ -8,6 +8,6 @@ public class AlobhaController {
 
 	@RequestMapping("/")
     public String homePage() {       
-        return "Hello world";
+        return "Hello world 1";
     }
 }
